@@ -1,0 +1,1005 @@
+Player 1 discards: JACK of DIAMONDS
+Player 1's hand: TEN of CLUBS
+NINE of CLUBS
+JACK of CLUBS
+
+Current value: 29
+Player 2 takes from discard: THREE of SPADES
+Player 2 discards: THREE of SPADES
+Player 2's hand: JACK of SPADES
+TEN of SPADES
+QUEEN of SPADES
+
+Current value: 30
+Player 1 takes from discard: EIGHT of SPADES
+Player 1 discards: EIGHT of SPADES
+Player 1's hand: TEN of CLUBS
+NINE of CLUBS
+JACK of CLUBS
+
+Current value: 29
+Player 2 takes from stockpile: THREE of CLUBS
+Player 2 discards: THREE of CLUBS
+Player 2's hand: JACK of SPADES
+TEN of SPADES
+QUEEN of SPADES
+
+Current value: 30
+Player 1 takes from discard: KING of SPADES
+Player 1 discards: KING of SPADES
+Player 1's hand: TEN of CLUBS
+NINE of CLUBS
+JACK of CLUBS
+
+Current value: 29
+Player 2 takes from stockpile: SIX of HEARTS
+Player 2 discards: SIX of HEARTS
+Player 2's hand: JACK of SPADES
+TEN of SPADES
+QUEEN of SPADES
+
+Current value: 30
+Player 1 takes from stockpile: TWO of SPADES
+Player 1 discards: TWO of SPADES
+Player 1's hand: TEN of CLUBS
+NINE of CLUBS
+JACK of CLUBS
+
+Current value: 29
+Player 2 takes from discard: FOUR of SPADES
+Player 2 discards: FOUR of SPADES
+Player 2's hand: JACK of SPADES
+TEN of SPADES
+QUEEN of SPADES
+
+Current value: 30
+Player 1 takes from discard: SIX of CLUBS
+Player 1 discards: SIX of CLUBS
+Player 1's hand: TEN of CLUBS
+NINE of CLUBS
+JACK of CLUBS
+
+Current value: 29
+Player 2 takes from discard: FOUR of HEARTS
+Player 2 discards: FOUR of HEARTS
+Player 2's hand: JACK of SPADES
+TEN of SPADES
+QUEEN of SPADES
+
+Current value: 30
+Player 1 takes from discard: SEVEN of CLUBS
+Player 1 discards: SEVEN of CLUBS
+Player 1's hand: TEN of CLUBS
+NINE of CLUBS
+JACK of CLUBS
+
+Current value: 29
+Player 2 takes from discard: NINE of SPADES
+Player 2 discards: NINE of SPADES
+Player 2's hand: JACK of SPADES
+TEN of SPADES
+QUEEN of SPADES
+
+Current value: 30
+Player 1 takes from stockpile: EIGHT of CLUBS
+Player 1 discards: EIGHT of CLUBS
+Player 1's hand: TEN of CLUBS
+NINE of CLUBS
+JACK of CLUBS
+
+Current value: 29
+Player 2 takes from discard: TWO of CLUBS
+Player 2 discards: TWO of CLUBS
+Player 2's hand: JACK of SPADES
+TEN of SPADES
+QUEEN of SPADES
+
+Current value: 30
+Player 1 takes from discard: THREE of HEARTS
+Player 1 discards: THREE of HEARTS
+Player 1's hand: TEN of CLUBS
+NINE of CLUBS
+JACK of CLUBS
+
+Current value: 29
+Player 2 takes from stockpile: FIVE of HEARTS
+Player 2 discards: FIVE of HEARTS
+Player 2's hand: JACK of SPADES
+TEN of SPADES
+QUEEN of SPADES
+
+Current value: 30
+Player 1 takes from discard: QUEEN of HEARTS
+Player 1 discards: QUEEN of HEARTS
+Player 1's hand: TEN of CLUBS
+NINE of CLUBS
+JACK of CLUBS
+
+Current value: 29
+Player 2 takes from discard: FIVE of CLUBS
+Player 2 discards: FIVE of CLUBS
+Player 2's hand: JACK of SPADES
+TEN of SPADES
+QUEEN of SPADES
+
+Current value: 30
+Player 1 takes from discard: SIX of SPADES
+Player 1 discards: SIX of SPADES
+Player 1's hand: TEN of CLUBS
+NINE of CLUBS
+JACK of CLUBS
+
+Current value: 29
+Player 2 takes from stockpile: ACE of DIAMONDS
+Player 2 discards: ACE of DIAMONDS
+Player 2's hand: JACK of SPADES
+TEN of SPADES
+QUEEN of SPADES
+
+Current value: 30
+Player 1 takes from discard: TWO of HEARTS
+Player 1 discards: TWO of HEARTS
+Player 1's hand: TEN of CLUBS
+NINE of CLUBS
+JACK of CLUBS
+
+Current value: 29
+Player 2 takes from discard: FIVE of DIAMONDS
+Player 2 discards: FIVE of DIAMONDS
+Player 2's hand: JACK of SPADES
+TEN of SPADES
+QUEEN of SPADES
+
+Current value: 30
+Player 1 takes from stockpile: QUEEN of CLUBS
+Player 1 discards: NINE of CLUBS
+Player 1's hand: TEN of CLUBS
+JACK of CLUBS
+QUEEN of CLUBS
+
+Current value: 30
+Player 2 takes from stockpile: SIX of DIAMONDS
+Player 2 discards: SIX of DIAMONDS
+Player 2's hand: JACK of SPADES
+TEN of SPADES
+QUEEN of SPADES
+
+Current value: 30
+Player 1 takes from discard: SEVEN of DIAMONDS
+Player 1 discards: SEVEN of DIAMONDS
+Player 1's hand: TEN of CLUBS
+JACK of CLUBS
+QUEEN of CLUBS
+
+Current value: 30
+Player 2 takes from stockpile: NINE of HEARTS
+Player 2 discards: NINE of HEARTS
+Player 2's hand: JACK of SPADES
+TEN of SPADES
+QUEEN of SPADES
+
+Current value: 30
+Player 1 takes from discard: JACK of HEARTS
+Player 1 discards: JACK of HEARTS
+Player 1's hand: TEN of CLUBS
+JACK of CLUBS
+QUEEN of CLUBS
+
+Current value: 30
+Player 2 takes from stockpile: ACE of SPADES
+Player 2 discards: JACK of SPADES
+Player 2's hand: TEN of SPADES
+QUEEN of SPADES
+ACE of SPADES
+
+Current value: 31
+Player 2 has 31! Round ends.
+Player 1 has lowest score (30). Loses 1 life.
+
+Current status:
+Player 1: 1 lives
+Player 2: 3 lives
+
+=== Starting new round ===
+Player 1 takes from stockpile: KING of CLUBS
+Player 1 discards: SIX of HEARTS
+Player 1's hand: KING of SPADES
+KING of DIAMONDS
+KING of CLUBS
+
+Current value: 10
+Player 2 takes from discard: TWO of DIAMONDS
+Player 2 discards: NINE of CLUBS
+Player 2's hand: KING of HEARTS
+TEN of HEARTS
+TWO of DIAMONDS
+
+Current value: 20
+Player 1 takes from stockpile: SIX of CLUBS
+Player 1 discards: KING of SPADES
+Player 1's hand: KING of DIAMONDS
+KING of CLUBS
+SIX of CLUBS
+
+Current value: 16
+Player 2 takes from discard: SIX of HEARTS
+Player 2 discards: TWO of DIAMONDS
+Player 2's hand: KING of HEARTS
+TEN of HEARTS
+SIX of HEARTS
+
+Current value: 26
+Player 1 takes from stockpile: EIGHT of SPADES
+Player 1 discards: KING of DIAMONDS
+Player 1's hand: KING of CLUBS
+SIX of CLUBS
+EIGHT of SPADES
+
+Current value: 16
+Player 2 knocks!
+Player 1 takes from stockpile: FIVE of HEARTS
+Player 1 discards: EIGHT of SPADES
+Player 1's hand: KING of CLUBS
+SIX of CLUBS
+FIVE of HEARTS
+
+Current value: 16
+Player 2 takes from stockpile: TWO of HEARTS
+Player 2 discards: TWO of HEARTS
+Player 2's hand: KING of HEARTS
+TEN of HEARTS
+SIX of HEARTS
+
+Current value: 26
+Player 1 takes from discard: NINE of CLUBS
+Player 1 discards: FIVE of HEARTS
+Player 1's hand: KING of CLUBS
+SIX of CLUBS
+NINE of CLUBS
+
+Current value: 25
+Player 2 takes from stockpile: FOUR of DIAMONDS
+Player 2 discards: FOUR of DIAMONDS
+Player 2's hand: KING of HEARTS
+TEN of HEARTS
+SIX of HEARTS
+
+Current value: 26
+Player 1 takes from stockpile: THREE of DIAMONDS
+Player 1 discards: THREE of DIAMONDS
+Player 1's hand: KING of CLUBS
+SIX of CLUBS
+NINE of CLUBS
+
+Current value: 25
+Player 2 takes from stockpile: JACK of CLUBS
+Player 2 discards: JACK of CLUBS
+Player 2's hand: KING of HEARTS
+TEN of HEARTS
+SIX of HEARTS
+
+Current value: 26
+Player 1 takes from discard: KING of SPADES
+Player 1 discards: KING of SPADES
+Player 1's hand: KING of CLUBS
+SIX of CLUBS
+NINE of CLUBS
+
+Current value: 25
+Player 2 takes from stockpile: FIVE of DIAMONDS
+Player 2 discards: FIVE of DIAMONDS
+Player 2's hand: KING of HEARTS
+TEN of HEARTS
+SIX of HEARTS
+
+Current value: 26
+Player 1 takes from stockpile: FIVE of CLUBS
+Player 1 discards: FIVE of CLUBS
+Player 1's hand: KING of CLUBS
+SIX of CLUBS
+NINE of CLUBS
+
+Current value: 25
+Player 2 takes from stockpile: EIGHT of CLUBS
+Player 2 discards: EIGHT of CLUBS
+Player 2's hand: KING of HEARTS
+TEN of HEARTS
+SIX of HEARTS
+
+Current value: 26
+Player 1 takes from stockpile: THREE of SPADES
+Player 1 discards: THREE of SPADES
+Player 1's hand: KING of CLUBS
+SIX of CLUBS
+NINE of CLUBS
+
+Current value: 25
+Player 2 takes from discard: TWO of DIAMONDS
+Player 2 discards: TWO of DIAMONDS
+Player 2's hand: KING of HEARTS
+TEN of HEARTS
+SIX of HEARTS
+
+Current value: 26
+Player 1 takes from stockpile: EIGHT of HEARTS
+Player 1 discards: EIGHT of HEARTS
+Player 1's hand: KING of CLUBS
+SIX of CLUBS
+NINE of CLUBS
+
+Current value: 25
+Player 2 takes from discard: KING of DIAMONDS
+Player 2 discards: KING of DIAMONDS
+Player 2's hand: KING of HEARTS
+TEN of HEARTS
+SIX of HEARTS
+
+Current value: 26
+Player 1 takes from stockpile: FOUR of SPADES
+Player 1 discards: FOUR of SPADES
+Player 1's hand: KING of CLUBS
+SIX of CLUBS
+NINE of CLUBS
+
+Current value: 25
+Player 2 takes from stockpile: EIGHT of DIAMONDS
+Player 2 discards: EIGHT of DIAMONDS
+Player 2's hand: KING of HEARTS
+TEN of HEARTS
+SIX of HEARTS
+
+Current value: 26
+Player 1 takes from stockpile: SIX of SPADES
+Player 1 discards: SIX of SPADES
+Player 1's hand: KING of CLUBS
+SIX of CLUBS
+NINE of CLUBS
+
+Current value: 25
+Player 2 takes from stockpile: JACK of HEARTS
+Player 2 discards: SIX of HEARTS
+Player 2's hand: KING of HEARTS
+TEN of HEARTS
+JACK of HEARTS
+
+Current value: 30
+Player 1 takes from stockpile: QUEEN of SPADES
+Player 1 discards: QUEEN of SPADES
+Player 1's hand: KING of CLUBS
+SIX of CLUBS
+NINE of CLUBS
+
+Current value: 25
+Player 2 takes from discard: EIGHT of SPADES
+Player 2 discards: EIGHT of SPADES
+Player 2's hand: KING of HEARTS
+TEN of HEARTS
+JACK of HEARTS
+
+Current value: 30
+Player 1 takes from discard: TWO of HEARTS
+Player 1 discards: TWO of HEARTS
+Player 1's hand: KING of CLUBS
+SIX of CLUBS
+NINE of CLUBS
+
+Current value: 25
+Player 2 takes from discard: FIVE of HEARTS
+Player 2 discards: FIVE of HEARTS
+Player 2's hand: KING of HEARTS
+TEN of HEARTS
+JACK of HEARTS
+
+Current value: 30
+Player 1 takes from discard: FOUR of DIAMONDS
+Player 1 discards: FOUR of DIAMONDS
+Player 1's hand: KING of CLUBS
+SIX of CLUBS
+NINE of CLUBS
+
+Current value: 25
+Player 2 takes from discard: THREE of DIAMONDS
+Player 2 discards: THREE of DIAMONDS
+Player 2's hand: KING of HEARTS
+TEN of HEARTS
+JACK of HEARTS
+
+Current value: 30
+Player 1 takes from stockpile: FOUR of HEARTS
+Player 1 discards: FOUR of HEARTS
+Player 1's hand: KING of CLUBS
+SIX of CLUBS
+NINE of CLUBS
+
+Current value: 25
+Player 2 takes from discard: JACK of CLUBS
+Player 2 discards: JACK of CLUBS
+Player 2's hand: KING of HEARTS
+TEN of HEARTS
+JACK of HEARTS
+
+Current value: 30
+Player 1 takes from discard: KING of SPADES
+Player 1 discards: KING of SPADES
+Player 1's hand: KING of CLUBS
+SIX of CLUBS
+NINE of CLUBS
+
+Current value: 25
+Player 2 takes from stockpile: TEN of DIAMONDS
+Player 2 discards: TEN of DIAMONDS
+Player 2's hand: KING of HEARTS
+TEN of HEARTS
+JACK of HEARTS
+
+Current value: 30
+Player 1 takes from stockpile: QUEEN of HEARTS
+Player 1 discards: QUEEN of HEARTS
+Player 1's hand: KING of CLUBS
+SIX of CLUBS
+NINE of CLUBS
+
+Current value: 25
+Player 2 takes from stockpile: ACE of DIAMONDS
+Player 2 discards: ACE of DIAMONDS
+Player 2's hand: KING of HEARTS
+TEN of HEARTS
+JACK of HEARTS
+
+Current value: 30
+Player 1 takes from stockpile: QUEEN of CLUBS
+Player 1 discards: SIX of CLUBS
+Player 1's hand: KING of CLUBS
+NINE of CLUBS
+QUEEN of CLUBS
+
+Current value: 29
+Player 2 takes from discard: FIVE of DIAMONDS
+Player 2 discards: FIVE of DIAMONDS
+Player 2's hand: KING of HEARTS
+TEN of HEARTS
+JACK of HEARTS
+
+Current value: 30
+Player 1 takes from discard: FIVE of CLUBS
+Player 1 discards: FIVE of CLUBS
+Player 1's hand: KING of CLUBS
+NINE of CLUBS
+QUEEN of CLUBS
+
+Current value: 29
+Player 2 takes from discard: EIGHT of CLUBS
+Player 2 discards: EIGHT of CLUBS
+Player 2's hand: KING of HEARTS
+TEN of HEARTS
+JACK of HEARTS
+
+Current value: 30
+Player 1 takes from stockpile: FOUR of CLUBS
+Player 1 discards: FOUR of CLUBS
+Player 1's hand: KING of CLUBS
+NINE of CLUBS
+QUEEN of CLUBS
+
+Current value: 29
+Player 2 takes from stockpile: TWO of CLUBS
+Player 2 discards: TWO of CLUBS
+Player 2's hand: KING of HEARTS
+TEN of HEARTS
+JACK of HEARTS
+
+Current value: 30
+Player 1 takes from stockpile: FIVE of SPADES
+Player 1 discards: FIVE of SPADES
+Player 1's hand: KING of CLUBS
+NINE of CLUBS
+QUEEN of CLUBS
+
+Current value: 29
+Player 2 takes from stockpile: SEVEN of SPADES
+Player 2 discards: SEVEN of SPADES
+Player 2's hand: KING of HEARTS
+TEN of HEARTS
+JACK of HEARTS
+
+Current value: 30
+Player 1 takes from stockpile: SEVEN of CLUBS
+Player 1 discards: SEVEN of CLUBS
+Player 1's hand: KING of CLUBS
+NINE of CLUBS
+QUEEN of CLUBS
+
+Current value: 29
+Player 2 takes from stockpile: SEVEN of HEARTS
+Player 2 discards: SEVEN of HEARTS
+Player 2's hand: KING of HEARTS
+TEN of HEARTS
+JACK of HEARTS
+
+Current value: 30
+Player 1 takes from stockpile: JACK of DIAMONDS
+Player 1 discards: JACK of DIAMONDS
+Player 1's hand: KING of CLUBS
+NINE of CLUBS
+QUEEN of CLUBS
+
+Current value: 29
+Player 2 takes from discard: THREE of SPADES
+Player 2 discards: THREE of SPADES
+Player 2's hand: KING of HEARTS
+TEN of HEARTS
+JACK of HEARTS
+
+Current value: 30
+Player 1 takes from discard: TWO of DIAMONDS
+Player 1 discards: TWO of DIAMONDS
+Player 1's hand: KING of CLUBS
+NINE of CLUBS
+QUEEN of CLUBS
+
+Current value: 29
+Player 2 takes from discard: EIGHT of HEARTS
+Player 2 discards: EIGHT of HEARTS
+Player 2's hand: KING of HEARTS
+TEN of HEARTS
+JACK of HEARTS
+
+Current value: 30
+Player 1 takes from discard: KING of DIAMONDS
+Player 1 discards: KING of DIAMONDS
+Player 1's hand: KING of CLUBS
+NINE of CLUBS
+QUEEN of CLUBS
+
+Current value: 29
+Player 2 takes from stockpile: TWO of SPADES
+Player 2 discards: TWO of SPADES
+Player 2's hand: KING of HEARTS
+TEN of HEARTS
+JACK of HEARTS
+
+Current value: 30
+Player 1 takes from discard: FOUR of SPADES
+Player 1 discards: FOUR of SPADES
+Player 1's hand: KING of CLUBS
+NINE of CLUBS
+QUEEN of CLUBS
+
+Current value: 29
+Player 2 takes from discard: EIGHT of DIAMONDS
+Player 2 discards: EIGHT of DIAMONDS
+Player 2's hand: KING of HEARTS
+TEN of HEARTS
+JACK of HEARTS
+
+Current value: 30
+Player 1 takes from discard: SIX of SPADES
+Player 1 discards: SIX of SPADES
+Player 1's hand: KING of CLUBS
+NINE of CLUBS
+QUEEN of CLUBS
+
+Current value: 29
+Player 2 takes from discard: SIX of HEARTS
+Player 2 discards: SIX of HEARTS
+Player 2's hand: KING of HEARTS
+TEN of HEARTS
+JACK of HEARTS
+
+Current value: 30
+Player 1 takes from stockpile: THREE of HEARTS
+Player 1 discards: THREE of HEARTS
+Player 1's hand: KING of CLUBS
+NINE of CLUBS
+QUEEN of CLUBS
+
+Current value: 29
+Player 2 takes from stockpile: SEVEN of DIAMONDS
+Player 2 discards: SEVEN of DIAMONDS
+Player 2's hand: KING of HEARTS
+TEN of HEARTS
+JACK of HEARTS
+
+Current value: 30
+Player 1 takes from discard: QUEEN of SPADES
+Player 1 discards: QUEEN of SPADES
+Player 1's hand: KING of CLUBS
+NINE of CLUBS
+QUEEN of CLUBS
+
+Current value: 29
+Player 2 takes from discard: EIGHT of SPADES
+Player 2 discards: EIGHT of SPADES
+Player 2's hand: KING of HEARTS
+TEN of HEARTS
+JACK of HEARTS
+
+Current value: 30
+Player 1 takes from stockpile: ACE of CLUBS
+Player 1 discards: NINE of CLUBS
+Player 1's hand: KING of CLUBS
+QUEEN of CLUBS
+ACE of CLUBS
+
+Current value: 31
+Player 1 has 31! Round ends.
+Player 2 knocked but had lowest score! Loses 2 lives.
+
+Current status:
+Player 1: 1 lives
+Player 2: 1 lives
+
+=== Starting new round ===
+Player 1 takes from discard: FOUR of SPADES
+Player 1 discards: NINE of CLUBS
+Player 1's hand: TWO of HEARTS
+EIGHT of SPADES
+FOUR of SPADES
+
+Current value: 12
+Player 2 takes from stockpile: KING of CLUBS
+Player 2 discards: SIX of DIAMONDS
+Player 2's hand: NINE of HEARTS
+ACE of SPADES
+KING of CLUBS
+
+Current value: 11
+Player 1 takes from discard: NINE of CLUBS
+Player 1 discards: TWO of HEARTS
+Player 1's hand: EIGHT of SPADES
+FOUR of SPADES
+NINE of CLUBS
+
+Current value: 12
+Player 2 takes from stockpile: FOUR of CLUBS
+Player 2 discards: NINE of HEARTS
+Player 2's hand: ACE of SPADES
+KING of CLUBS
+FOUR of CLUBS
+
+Current value: 14
+Player 1 takes from discard: SIX of DIAMONDS
+Player 1 discards: NINE of CLUBS
+Player 1's hand: EIGHT of SPADES
+FOUR of SPADES
+SIX of DIAMONDS
+
+Current value: 12
+Player 2 takes from discard: TWO of HEARTS
+Player 2 discards: ACE of SPADES
+Player 2's hand: KING of CLUBS
+FOUR of CLUBS
+TWO of HEARTS
+
+Current value: 14
+Player 1 takes from stockpile: JACK of CLUBS
+Player 1 discards: SIX of DIAMONDS
+Player 1's hand: EIGHT of SPADES
+FOUR of SPADES
+JACK of CLUBS
+
+Current value: 12
+Player 2 takes from discard: NINE of HEARTS
+Player 2 discards: TWO of HEARTS
+Player 2's hand: KING of CLUBS
+FOUR of CLUBS
+NINE of HEARTS
+
+Current value: 14
+Player 1 takes from stockpile: ACE of DIAMONDS
+Player 1 discards: JACK of CLUBS
+Player 1's hand: EIGHT of SPADES
+FOUR of SPADES
+ACE of DIAMONDS
+
+Current value: 12
+Player 2 takes from discard: NINE of CLUBS
+Player 2 discards: NINE of HEARTS
+Player 2's hand: KING of CLUBS
+FOUR of CLUBS
+NINE of CLUBS
+
+Current value: 23
+Player 1 takes from discard: ACE of SPADES
+Player 1 discards: ACE of DIAMONDS
+Player 1's hand: EIGHT of SPADES
+FOUR of SPADES
+ACE of SPADES
+
+Current value: 23
+Player 2 takes from discard: SIX of DIAMONDS
+Player 2 discards: SIX of DIAMONDS
+Player 2's hand: KING of CLUBS
+FOUR of CLUBS
+NINE of CLUBS
+
+Current value: 23
+Player 1 takes from stockpile: FIVE of CLUBS
+Player 1 discards: FIVE of CLUBS
+Player 1's hand: EIGHT of SPADES
+FOUR of SPADES
+ACE of SPADES
+
+Current value: 23
+Player 2 takes from stockpile: SIX of HEARTS
+Player 2 discards: SIX of HEARTS
+Player 2's hand: KING of CLUBS
+FOUR of CLUBS
+NINE of CLUBS
+
+Current value: 23
+Player 1 takes from stockpile: EIGHT of CLUBS
+Player 1 discards: EIGHT of CLUBS
+Player 1's hand: EIGHT of SPADES
+FOUR of SPADES
+ACE of SPADES
+
+Current value: 23
+Player 2 takes from stockpile: TWO of SPADES
+Player 2 discards: TWO of SPADES
+Player 2's hand: KING of CLUBS
+FOUR of CLUBS
+NINE of CLUBS
+
+Current value: 23
+Player 1 takes from stockpile: TWO of DIAMONDS
+Player 1 discards: TWO of DIAMONDS
+Player 1's hand: EIGHT of SPADES
+FOUR of SPADES
+ACE of SPADES
+
+Current value: 23
+Player 2 takes from discard: TWO of HEARTS
+Player 2 discards: TWO of HEARTS
+Player 2's hand: KING of CLUBS
+FOUR of CLUBS
+NINE of CLUBS
+
+Current value: 23
+Player 1 takes from stockpile: TEN of HEARTS
+Player 1 discards: TEN of HEARTS
+Player 1's hand: EIGHT of SPADES
+FOUR of SPADES
+ACE of SPADES
+
+Current value: 23
+Player 2 takes from stockpile: FIVE of DIAMONDS
+Player 2 discards: FIVE of DIAMONDS
+Player 2's hand: KING of CLUBS
+FOUR of CLUBS
+NINE of CLUBS
+
+Current value: 23
+Player 1 takes from stockpile: SEVEN of CLUBS
+Player 1 discards: SEVEN of CLUBS
+Player 1's hand: EIGHT of SPADES
+FOUR of SPADES
+ACE of SPADES
+
+Current value: 23
+Player 2 takes from stockpile: TEN of DIAMONDS
+Player 2 discards: TEN of DIAMONDS
+Player 2's hand: KING of CLUBS
+FOUR of CLUBS
+NINE of CLUBS
+
+Current value: 23
+Player 1 takes from discard: JACK of CLUBS
+Player 1 discards: JACK of CLUBS
+Player 1's hand: EIGHT of SPADES
+FOUR of SPADES
+ACE of SPADES
+
+Current value: 23
+Player 2 takes from discard: NINE of HEARTS
+Player 2 discards: NINE of HEARTS
+Player 2's hand: KING of CLUBS
+FOUR of CLUBS
+NINE of CLUBS
+
+Current value: 23
+Player 1 takes from discard: ACE of DIAMONDS
+Player 1 discards: ACE of DIAMONDS
+Player 1's hand: EIGHT of SPADES
+FOUR of SPADES
+ACE of SPADES
+
+Current value: 23
+Player 2 takes from discard: SIX of DIAMONDS
+Player 2 discards: SIX of DIAMONDS
+Player 2's hand: KING of CLUBS
+FOUR of CLUBS
+NINE of CLUBS
+
+Current value: 23
+Player 1 takes from stockpile: FIVE of HEARTS
+Player 1 discards: FIVE of HEARTS
+Player 1's hand: EIGHT of SPADES
+FOUR of SPADES
+ACE of SPADES
+
+Current value: 23
+Player 2 takes from stockpile: SEVEN of HEARTS
+Player 2 discards: SEVEN of HEARTS
+Player 2's hand: KING of CLUBS
+FOUR of CLUBS
+NINE of CLUBS
+
+Current value: 23
+Player 1 takes from stockpile: QUEEN of HEARTS
+Player 1 discards: QUEEN of HEARTS
+Player 1's hand: EIGHT of SPADES
+FOUR of SPADES
+ACE of SPADES
+
+Current value: 23
+Player 2 takes from stockpile: JACK of DIAMONDS
+Player 2 discards: JACK of DIAMONDS
+Player 2's hand: KING of CLUBS
+FOUR of CLUBS
+NINE of CLUBS
+
+Current value: 23
+Player 1 takes from stockpile: KING of HEARTS
+Player 1 discards: KING of HEARTS
+Player 1's hand: EIGHT of SPADES
+FOUR of SPADES
+ACE of SPADES
+
+Current value: 23
+Player 2 takes from stockpile: QUEEN of DIAMONDS
+Player 2 discards: QUEEN of DIAMONDS
+Player 2's hand: KING of CLUBS
+FOUR of CLUBS
+NINE of CLUBS
+
+Current value: 23
+Player 1 takes from stockpile: TEN of SPADES
+Player 1 discards: FOUR of SPADES
+Player 1's hand: EIGHT of SPADES
+ACE of SPADES
+TEN of SPADES
+
+Current value: 29
+Player 2 takes from discard: FIVE of CLUBS
+Player 2 discards: FOUR of CLUBS
+Player 2's hand: KING of CLUBS
+NINE of CLUBS
+FIVE of CLUBS
+
+Current value: 24
+Player 1 takes from stockpile: THREE of DIAMONDS
+Player 1 discards: THREE of DIAMONDS
+Player 1's hand: EIGHT of SPADES
+ACE of SPADES
+TEN of SPADES
+
+Current value: 29
+Player 2 takes from stockpile: EIGHT of HEARTS
+Player 2 discards: EIGHT of HEARTS
+Player 2's hand: KING of CLUBS
+NINE of CLUBS
+FIVE of CLUBS
+
+Current value: 24
+Player 1 knocks!
+Player 2 takes from discard: SIX of HEARTS
+Player 2 discards: SIX of HEARTS
+Player 2's hand: KING of CLUBS
+NINE of CLUBS
+FIVE of CLUBS
+
+Current value: 24
+Player 1 takes from stockpile: THREE of HEARTS
+Player 1 discards: THREE of HEARTS
+Player 1's hand: EIGHT of SPADES
+ACE of SPADES
+TEN of SPADES
+
+Current value: 29
+Player 2 takes from stockpile: THREE of CLUBS
+Player 2 discards: THREE of CLUBS
+Player 2's hand: KING of CLUBS
+NINE of CLUBS
+FIVE of CLUBS
+
+Current value: 24
+Player 1 takes from stockpile: FOUR of HEARTS
+Player 1 discards: FOUR of HEARTS
+Player 1's hand: EIGHT of SPADES
+ACE of SPADES
+TEN of SPADES
+
+Current value: 29
+Player 2 takes from discard: EIGHT of CLUBS
+Player 2 discards: FIVE of CLUBS
+Player 2's hand: KING of CLUBS
+NINE of CLUBS
+EIGHT of CLUBS
+
+Current value: 27
+Player 1 takes from discard: TWO of SPADES
+Player 1 discards: TWO of SPADES
+Player 1's hand: EIGHT of SPADES
+ACE of SPADES
+TEN of SPADES
+
+Current value: 29
+Player 2 takes from discard: TWO of DIAMONDS
+Player 2 discards: TWO of DIAMONDS
+Player 2's hand: KING of CLUBS
+NINE of CLUBS
+EIGHT of CLUBS
+
+Current value: 27
+Player 1 takes from discard: TWO of HEARTS
+Player 1 discards: TWO of HEARTS
+Player 1's hand: EIGHT of SPADES
+ACE of SPADES
+TEN of SPADES
+
+Current value: 29
+Player 2 takes from discard: TEN of HEARTS
+Player 2 discards: TEN of HEARTS
+Player 2's hand: KING of CLUBS
+NINE of CLUBS
+EIGHT of CLUBS
+
+Current value: 27
+Player 1 takes from discard: FIVE of DIAMONDS
+Player 1 discards: FIVE of DIAMONDS
+Player 1's hand: EIGHT of SPADES
+ACE of SPADES
+TEN of SPADES
+
+Current value: 29
+Player 2 takes from stockpile: SEVEN of SPADES
+Player 2 discards: SEVEN of SPADES
+Player 2's hand: KING of CLUBS
+NINE of CLUBS
+EIGHT of CLUBS
+
+Current value: 27
+Player 1 takes from stockpile: SIX of CLUBS
+Player 1 discards: SIX of CLUBS
+Player 1's hand: EIGHT of SPADES
+ACE of SPADES
+TEN of SPADES
+
+Current value: 29
+Player 2 takes from stockpile: SIX of SPADES
+Player 2 discards: SIX of SPADES
+Player 2's hand: KING of CLUBS
+NINE of CLUBS
+EIGHT of CLUBS
+
+Current value: 27
+Player 1 takes from stockpile: NINE of DIAMONDS
+Player 1 discards: NINE of DIAMONDS
+Player 1's hand: EIGHT of SPADES
+ACE of SPADES
+TEN of SPADES
+
+Current value: 29
+Player 2 takes from stockpile: TEN of CLUBS
+Player 2 discards: EIGHT of CLUBS
+Player 2's hand: KING of CLUBS
+NINE of CLUBS
+TEN of CLUBS
+
+Current value: 29
+Player 1 takes from stockpile: QUEEN of SPADES
+Player 1 discards: EIGHT of SPADES
+Player 1's hand: ACE of SPADES
+TEN of SPADES
+QUEEN of SPADES
+
+Current value: 31
+Player 1 has 31! Round ends.
+Player 2 has lowest score (29). Loses 1 life.
+
+Current status:
+Player 1: 1 lives
+
+Player 1 wins the game!
+PS C:\Users\Brandon Hermes\OneDrive\Documents\project 5\thirtyone>
