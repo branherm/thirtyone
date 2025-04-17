@@ -1,8 +1,11 @@
 package edu.guilford;
 
+
 import java.util.ArrayList;
+import java.util.HashMap;
 import java.util.LinkedList;
 import java.util.List;
+import java.util.Map;
 import java.util.Queue;
 import java.util.Random;
 import java.util.Stack;
@@ -119,8 +122,7 @@ public class ThirtyOneGame {
         // Add to hand
         currentPlayer.getHand().addCard(drawnCard);
 
-        // Decide which card to discard (simple strategy: discard lowest value card not
-        // matching strongest suit)
+        // Decide which card to discard (new improved strategy)
         Card toDiscard = chooseCardToDiscard(currentPlayer.getHand());
         currentPlayer.getHand().removeCard(toDiscard);
         discardPile.add(toDiscard);
@@ -147,46 +149,55 @@ public class ThirtyOneGame {
     }
 
     private Card chooseCardToDiscard(Hand hand) {
-        // Simple strategy: discard the card that contributes least to the hand's value
-        int maxSuitValue = 0;
-        Card.Suit strongestSuit = null;
-
-        // Find strongest suit in hand
+        // First, find which suit in the hand has multiple cards
+        Map<Card.Suit, Integer> suitCounts = new HashMap<>();
+        
+        // Initialize counts
         for (Card.Suit suit : Card.Suit.values()) {
-            int suitValue = 0;
-            for (int i = 0; i < hand.size(); i++) {
-                Card card = hand.getCard(i);
-                if (card.getSuit() == suit) {
-                    suitValue += getCardValue(card);
-                }
-            }
-            if (suitValue > maxSuitValue) {
-                maxSuitValue = suitValue;
-                strongestSuit = suit;
-            }
+            suitCounts.put(suit, 0);
         }
-
-        // Find card not in strongest suit, or lowest value in strongest suit
-        Card toDiscard = null;
-        int minValue = Integer.MAX_VALUE;
-
+        
+        // Count cards for each suit
         for (int i = 0; i < hand.size(); i++) {
             Card card = hand.getCard(i);
-            int value = getCardValue(card);
-
-            if (card.getSuit() != strongestSuit) {
-                // Prefer to discard cards not in strongest suit
-                if (toDiscard == null || value < getCardValue(toDiscard)) {
-                    toDiscard = card;
-                }
-            } else if (toDiscard == null || value < minValue) {
-                // Otherwise discard lowest value in strongest suit
-                minValue = value;
-                toDiscard = card;
+            Card.Suit suit = card.getSuit();
+            suitCounts.put(suit, suitCounts.get(suit) + 1);
+        }
+        
+        // Find suits with multiple cards
+        List<Card.Suit> multiCardSuits = new ArrayList<>();
+        for (Card.Suit suit : Card.Suit.values()) {
+            if (suitCounts.get(suit) > 1) {
+                multiCardSuits.add(suit);
             }
         }
+        
+        // If we have a suit with multiple cards, keep those, discard others
+        if (!multiCardSuits.isEmpty()) {
+            // Find the worst card not in a multi-card suit
+            for (int i = 0; i < hand.size(); i++) {
+                Card card = hand.getCard(i);
+                if (!multiCardSuits.contains(card.getSuit())) {
+                    return card;
+                }
+            }
+            // If all cards are in multi-card suits, discard the lowest value one
+            return findLowestValueCard(hand);
+        }
+        
+        // If no suit has multiple cards, just keep highest value suit
+        return findLowestValueCard(hand);
+    }
 
-        return toDiscard;
+    private Card findLowestValueCard(Hand hand) {
+        Card lowest = hand.getCard(0);
+        for (int i = 1; i < hand.size(); i++) {
+            Card current = hand.getCard(i);
+            if (getCardValue(current) < getCardValue(lowest)) {
+                lowest = current;
+            }
+        }
+        return lowest;
     }
 
     private int getCardValue(Card card) {
@@ -285,10 +296,5 @@ public class ThirtyOneGame {
         } else {
             System.out.println("\nAll players lost in the same round. Game ends in a tie!");
         }
-    }
-
-    public static void main(String[] args) {
-        ThirtyOneGame game = new ThirtyOneGame(4); // Play with 4 players
-        game.playGame();
     }
 }
